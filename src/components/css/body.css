@@ -38,5 +38,14 @@ img{
 }
 
 .secContainer{
-    background-color: white;
+    background-color: rgb(210, 233, 247);
+    color: black;
+}
+
+.temp2{
+    font-size: 60px;
+}
+
+.float{
+    float: right;
 }
